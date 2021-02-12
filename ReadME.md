@@ -3,6 +3,7 @@ The repository covers the following projects:
 1. A Simple Email Slicer
 2. Jumble Words Game
 3. A Simple Login and Sign-Up System
+4. A Simple To-Do List
 
 ## Project 1: A Simple Email Slicer
 The <b>email slicer</b> is a quite handy program to get the <b>username and domain name</b> from an email address.<br>The images below show the screenshots of the same project built:
@@ -23,4 +24,5 @@ It is not perfect but there are a few constraints set:
 The image below shows the screenshots of the same project built:
 <img src="./Images/Login-Signup Screen.png" height="250px">
 
-
+## Project 4: A simple To-Do List
+The System aims at storing all your daily tasks or important ideas.
