@@ -1,0 +1,5 @@
+1	Take Bath
+2	Brush
+3	Eat food
+4	Work on project!
+5	Take rest
